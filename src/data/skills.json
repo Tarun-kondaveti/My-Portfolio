@@ -2,7 +2,7 @@
   {
     "title": "React",
     "imageSrc": "/react.png",
-    "percentage": 65
+    "percentage": 75
   },
   {
     "title": "JavaScript",
@@ -17,16 +17,16 @@
   {
     "title": "Python",
     "imageSrc": "/python.png",
-    "percentage": 70
-  },
-  {
-    "title": "Express",
-    "imageSrc": "",
     "percentage": 60
   },
   {
+    "title": "Express",
+    "imageSrc": "/ExpressJs.png",
+    "percentage": 70
+  },
+  {
     "title": "MongoDB",
-    "imageSrc": "",
+    "imageSrc": "/mongodb.png",
     "percentage": 60
   }
 ]

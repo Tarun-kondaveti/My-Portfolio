@@ -8,7 +8,7 @@ const Skills = () => {
   const professionalSkills = [
     { title: 'Creativity', percentage: 75 },
     { title: 'Communication', percentage: 85 },
-    { title: 'Problem Solving', percentage: 70 },
+    { title: 'Problem Solving', percentage: 80 },
     { title: 'Team Work', percentage: 85 },
     { title: 'Leadership', percentage: 75 }
   ];
@@ -23,7 +23,7 @@ const Skills = () => {
           {skillsData.map((skill, index) => (
             <div key={index} className={styles.skill}>
               <img src={skill.imageSrc} alt={skill.title} className={styles.skillIcon} />
-              <span>{skill.title}</span>
+              <span>{skill.title}</span> 
               <div className={styles.progress}>
                 <div
                   className={styles.progressBar}

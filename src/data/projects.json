@@ -1,19 +1,43 @@
 [
     {
+      "title": "  AI-MOCK INTERVIEW",
+      "imageSrc": "/mockInterview.png",
+      "description": "As we all try to prepare ourselves for an interview by attending mock Interviews i have tried this AI based mock interview web app",
+      "skills": ["Next.js", "Tailwind Css"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Tarun-kondaveti/AI-Mock-interview-Web-App"
+    },
+    {
+      "title": "Carbon Emmission Neutralizer",
+      "imageSrc": "/carbonEmmission.png",
+      "description": "Participating in SIH 2024 we, as a team come approched with an idea to reduce the Carbon emmission in Coal Industries",
+      "skills": ["ReactJS", "NodeJs", "Sql"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Vinaytarigoppula/sih"
+    },
+    {
+      "title": "Notes Keeper",
+      "imageSrc": "/noteCeeper.png",
+      "description": "This is a project where we can add blogs,notes etc etc in our day to day life scenarios.",
+      "skills": ["ReactJS", "Css"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Tarun-kondaveti/Notes-Keeper"
+    },
+    {
       "title": "Stone Paper Scissors",
       "imageSrc": "/rpsgame.png",
       "description": "This is a project where we can play our favorite childhood game with computer.",
       "skills": ["Html", "Css", "JavaScript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Tarun-kondaveti/RPS_Game"
     },
     {
       "title": "Super Hero",
       "imageSrc": "/superhero.png",
-      "description": "This is a project designed to get details of your favorite superhero image and skills.",
+      "description": "A project designed to get details of your favorite superhero image and skills which uses API calls .",
       "skills": ["Html,Css", "JavaScript", "API"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Tarun-kondaveti/superhero"
     },
     {
       "title": "Grocery List",

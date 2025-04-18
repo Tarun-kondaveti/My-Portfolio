@@ -9,14 +9,13 @@
     rgb(13, 1, 39),
     rgb(24, 16, 40));   
     color : white;
-    height:500vh;
+    height:595vh;
     width: 100%;
     /* overflow: hidden; */
 }
 @media screen and (max-width:830px){
     .App{
-   
-    height:890vh;
+    height:1200vh;
   
 }
 }
