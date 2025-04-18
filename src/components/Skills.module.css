@@ -1,0 +1,81 @@
+.skillsSection {
+    padding: 50px;
+    background-color: #0a192f;
+    color: #fff;
+    margin-top: 90px;
+    margin-left: 10%;
+    margin-right:10% ;
+    padding-top: 100px;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+  }
+  
+  .highlight {
+    color: #00f2ff;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .technicalSkills, .professionalSkills {
+    flex: 1;
+  }
+  
+  .technicalSkills {
+    margin-right: 50px;
+  }
+  .skillname{
+    font-size: 30px;
+  }
+  
+  .skill {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .skillIcon {
+    width: 40px;
+    margin-right: 10px;
+  }
+  
+  .progress {
+    flex: 1;
+    background-color: #333;
+    border-radius: 5px;
+    position: relative;
+  }
+  
+  .progressBar {
+    height: 10px;
+    background-color: #00f2ff;
+    border-radius: 5px;
+    position: relative;
+  }
+  
+  .percentage {
+    position: absolute;
+    right: 10px;
+    top: -20px;
+    color: #fff;
+    font-size: 0.8rem;
+  }
+  
+  .professionalSkills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .circularSkills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  

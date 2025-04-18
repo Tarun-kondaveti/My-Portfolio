@@ -1,0 +1,29 @@
+.circularSkill {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .progressCircle {
+    transform: rotate(-90deg);
+  }
+  
+  .circleBg {
+    fill: none;
+    stroke: #333;
+  }
+  
+  .circleProgress {
+    fill: none;
+    stroke: #00f2ff;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease;
+  }
+  
+  .label {
+    margin-top: -90px;
+    font-size: 1.2rem;
+    color: white;
+  }
+.skilltitle{
+    margin-top: 80px;
+}

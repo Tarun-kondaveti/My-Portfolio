@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Stone Paper Scissors",
+      "imageSrc": "/rpsgame.png",
+      "description": "This is a project where we can play our favorite childhood game with computer.",
+      "skills": ["Html", "Css", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Super Hero",
+      "imageSrc": "/superhero.png",
+      "description": "This is a project designed to get details of your favorite superhero image and skills.",
+      "skills": ["Html,Css", "JavaScript", "API"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Grocery List",
+      "imageSrc": "/grocerylist.png",
+      "description": "This is a project made so that you won't forget any of your grocery list while shopping.",
+      "skills": ["React"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
