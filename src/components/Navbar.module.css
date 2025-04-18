@@ -8,7 +8,7 @@
     width: 100%; /* Ensures it spans the full width */
     padding-top: 20px; /* Adjust padding as needed */
     padding-bottom: 41px; /* Adjust padding as needed */
-    background-color: rgb(4, 12, 63);
+    background-color: rgb(1, 12, 79);
     z-index: 1000; /* Ensures it stays above other content */
     box-sizing: border-box; /* Ensures padding is included in width */
 }
@@ -21,11 +21,12 @@ body {
 .menu {
     display: flex;
     align-items: center;
+    margin-right: 70px;
 }
 
 .list {
     display: flex;
-    gap: 15px;
+    gap: 25px;
 }
 
 .list li {

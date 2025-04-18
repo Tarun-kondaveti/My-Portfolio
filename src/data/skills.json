@@ -1,15 +1,5 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "/html.png",
-    "percentage": 90
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "/css.png",
-    "percentage": 68
-  },
-  {
     "title": "React",
     "imageSrc": "/react.png",
     "percentage": 65

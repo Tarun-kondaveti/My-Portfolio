@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styles from './Navbar.module.css';
-import menuIcon from './menuIcon.svg'; // Correct path
+import menuIcon from './menuIcon.png'; // Correct path
 import closemenu from './closemenu.svg';
 
 const Navbar = () => {
@@ -27,7 +27,7 @@ const Navbar = () => {
                     <li><a href='#about' onClick={handlemenubutton}>About</a></li>
                     <li><a href='#skills' onClick={handlemenubutton}>Skills</a></li>
                     <li><a href='#projects' onClick={handlemenubutton}>Projects</a></li>
-                    <li><a href='#contact' onClick={handlemenubutton}>Contact</a></li>
+                    <li><a href='#contact' onClick={handlemenubutton}>Collaborate</a></li>
                 </ul>
             </div>
         </nav>

@@ -11,15 +11,17 @@ const Hero = () => {
           <span className={styles.typing}>Hi, I'm Tarun Kumar</span>
         </h1>
         <p className={styles.description}>
-          Student at Anil Neerukonda Institute of Technology and Sciences,
-        </p>
-        <p className={styles.description}>
-          Frontend Web Developer || Code with Java
-        </p>
-        <p className={styles.description}>
           Welcome to My Portfolio. Here you can explore about me and  my skills, and some of my projects.
         </p>
-        
+        <br></br>
+        <p className={styles.description}>
+         I am a Final Year Student at Anil Neerukonda Institute of Technology and Sciences,
+        </p>
+        <br></br>
+        <p className={styles.description}>
+          I like to improve my problem solving skills in DSA using JAVA as it helps us to implement our own logic.
+        </p>
+        <br></br>
         <p className={styles.description}>
           Hope you like this!
         </p>

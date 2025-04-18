@@ -16,7 +16,14 @@ const About = () => {
             <div className={styles.aboutitemtext}>
               <h3>MERN STACK DEVELOPER </h3>
               <p>
-              As a frontend developer, I specialize in creating intuitive and dynamic user interfaces. My experience is demonstrated through the various projects I’ve built, where I’ve applied technologies such as HTML, CSS, JavaScript, and React to deliver responsive and visually appealing web applications. I'm passionate about crafting seamless user experiences and ensuring the performance and accessibility of each project.
+              I'm a passionate MERN Stack Developer skilled in building scalable, full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I’ve developed several impactful projects, including:
+              <br></br>
+
+🔹 AI Mock Interview App (Next.js) – A smart application that simulates real-time technical interviews using AI and natural language processing to assess and guide users.
+<br></br>
+🔹 Carbon Emmision Neutralizer – A carbon footprint analytics platform that visualizes emissions and provides actionable afforestation-based solutions to move toward carbon neutrality.
+<br></br>
+My experience includes RESTful API design, frontend UI/UX development, state management using Redux/Context API, and deploying applications using Vercel and Render. I'm also well-versed in authentication (JWT, OAuth), and MongoDB schema design. 
                </p>
             </div>
           </li>
@@ -24,17 +31,15 @@ const About = () => {
             <div className={styles.aboutitemtext}>
               <h3>Java</h3>
               <p>
-              Java has always been a language that fuels my passion for coding. Its versatility and robustness challenge me to think critically and solve complex problems efficiently. My enthusiasm for Java is reflected in my ability to write clean, efficient code while leveraging the power of object-oriented programming to build scalable and maintainable solutions.
-               </p>
-            </div>
-          </li>
-          <li className={styles.item}>
-            <div className={styles.aboutitemtext}>
-              <h3>MySQL</h3>
-              <p>
-              Understanding the importance of database management is crucial for any developer. MySQL has been a key tool in my skill set, providing me with foundational knowledge of database connectivity and management. I’ve worked with MySQL to design, manage, and query databases, ensuring that the data layer of my applications is as reliable as the user-facing components.
-
-</p>
+              I have a strong foundation in Java programming, especially in Data Structures and Algorithms. My problem-solving approach is driven by clean code, time complexity analysis, and optimization. I've solved problems across platforms like LeetCode, HackerRank, and GFG, covering:
+<br></br>
+🔹 Arrays, Strings, Linked Lists, Trees, Graphs
+<br></br>
+🔹  Dynamic Programming, Recursion, Greedy Techniques
+<br></br>
+🔹  Sliding Window, Two Pointers, Binary Search
+<br></br>
+This practice has enhanced my analytical thinking and helped me crack competitive coding challenges and technical interviews.               </p>
             </div>
           </li>
         </ul>
