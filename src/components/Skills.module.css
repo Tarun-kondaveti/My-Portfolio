@@ -79,3 +79,8 @@
     justify-content: space-around;
   }
   
+  @media screen and (max-width: 830px ){
+    .techSkillName{
+      display: none;
+    }
+  }

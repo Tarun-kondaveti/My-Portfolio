@@ -23,7 +23,7 @@ const Skills = () => {
           {skillsData.map((skill, index) => (
             <div key={index} className={styles.skill}>
               <img src={skill.imageSrc} alt={skill.title} className={styles.skillIcon} />
-              <span>{skill.title}</span> 
+              <span className={styles.techSkillName}>{skill.title}</span> 
               <div className={styles.progress}>
                 <div
                   className={styles.progressBar}

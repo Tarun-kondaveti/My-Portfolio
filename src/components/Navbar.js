@@ -12,7 +12,7 @@ const Navbar = () => {
 
     return (
         <nav className={styles.navbar}>
-            <a href="/" className={styles.heading}>My Portfolio</a>
+           <a href="/" className={styles.heading}>My Portfolio</a>
 
             <div className={styles.menu}>
                 <img 
