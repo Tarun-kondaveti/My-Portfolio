@@ -68,7 +68,9 @@ body {
         flex-direction: column;
         align-items: flex-start;
     }
-
+    .heading{
+        margin-right:50px ;
+    }
     .menu {
         position: absolute;
         right: 0;
