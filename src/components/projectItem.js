@@ -21,9 +21,7 @@ const ProjectItem = ({ project: { title, imageSrc, description, skills, demo, so
         ))}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link} target="_blank" rel="noopener noreferrer">
-          Demo
-        </a>
+        
         <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">
           Source
         </a>

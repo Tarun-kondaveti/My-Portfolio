@@ -14,16 +14,16 @@ const About = () => {
         <ul className={styles.items}>
           <li className={styles.item}>
             <div className={styles.aboutitemtext}>
-              <h3>MERN STACK DEVELOPER </h3>
+              <h3>Aspiring Mern Dev </h3>
               <p>
-              I'm a passionate MERN Stack Developer skilled in building scalable, full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I’ve developed several impactful projects, including:
+              I'm intrested in  MERN Stack Developement skilled in building scalable, full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I’ve developed several impactful projects, including:
               <br></br>
 
 🔹 AI Mock Interview App (Next.js) – A smart application that simulates real-time technical interviews using AI and natural language processing to assess and guide users.
 <br></br>
 🔹 Carbon Emmision Neutralizer – A carbon footprint analytics platform that visualizes emissions and provides actionable afforestation-based solutions to move toward carbon neutrality.
 <br></br>
-My experience includes RESTful API design, frontend UI/UX development, state management using Redux/Context API, and deploying applications using Vercel and Render. I'm also well-versed in authentication (JWT, OAuth), and MongoDB schema design. 
+
                </p>
             </div>
           </li>

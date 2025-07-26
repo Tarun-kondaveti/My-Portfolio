@@ -3,7 +3,7 @@
       "title": "  AI-MOCK INTERVIEW",
       "imageSrc": "/mockInterview.png",
       "description": "As we all try to prepare ourselves for an interview by attending mock Interviews i have tried this AI based mock interview web app",
-      "skills": ["Next.js", "Tailwind Css"],
+      "skills": ["Next.js", "Postgre SQL"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Tarun-kondaveti/AI-Mock-interview-Web-App"
     },
